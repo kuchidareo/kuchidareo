@@ -1,9 +1,9 @@
-# ML Engineer - Federated Learning
+# ML Engineer
 
 ## Skillsets
 * Language
-    * HTML/CSS, Javascript, Python, SQL, Kotlin
+    * HTML/CSS, C++, Javascript, Python, SQL, Kotlin
 * Framework
-    * Pytorch, Flower, Flask
+    * ROS1, Pytorch, Flower, Flask
 * Middleware
     * Google Cloud Platform, Docker  
